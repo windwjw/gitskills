@@ -1,0 +1,32 @@
+
+＃由https://www.toptal.com/developers/gitignore/api/windows创建
+＃在https://www.toptal.com/developers/gitignore?templates=windows上进行编辑
+
+### Windows ###
+＃Windows缩略图缓存文件
+Thumbs.db
+Thumbs.db：可加密
+ehthumbs.db
+ehthumbs_vista.db
+
+＃转储文件
+* .stackdump
+
+＃文件夹配置文件
+[Dd] esktop.ini
+
+＃文件共享上使用的回收站
+$ RECYCLE.BIN /
+
+＃Windows Installer文件
+*。出租车
+* .msi
+* .msix
+* .msm
+* .msp
+
+＃Windows快捷方式
+* .lnk
+
+＃https://www.toptal.com/developers/gitignore/api/windows的结尾
+node_modules
